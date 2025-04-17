@@ -68,6 +68,3 @@ Detected Class: Only person (class_id = 0)
 YOLOv4 by AlexeyAB
 Streamlit
 OpenCV
-
-📃 License
-This project is licensed under the MIT License.
